@@ -9,8 +9,8 @@
 // @grant        GM_xmlhttpRequest
 
 // ==/UserScript==
-// @updateURL    https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/Documeta%20atendimento/planilha%20GGNET%20SZ.CHAT.user.js
-// @downloadURL  https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/Documeta%20atendimento/planilha%20GGNET%20SZ.CHAT.user.js
+// @updateURL    https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/planilha%20GGNET%20SZ.CHAT.user.js
+// @downloadURL  https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/planilha%20GGNET%20SZ.CHAT.user.js
 
 (function() {
     'use strict';
