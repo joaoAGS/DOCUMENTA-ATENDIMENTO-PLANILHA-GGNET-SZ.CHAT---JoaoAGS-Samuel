@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/179055349?v=4" alt="Logo" width="120">
   <br><br>
   
-  <a href="https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/Documeta%20atendimento/planilha%20GGNET%20SZ.CHAT.user.js">
+  <a href="https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/planilha%20GGNET%20SZ.CHAT.user.js">
     <img src="https://img.shields.io/badge/⬇️_Instalar_Script-v13.1-success?style=for-the-badge&logo=tampermonkey" alt="Instalar Script">
   </a>
   
@@ -17,7 +17,7 @@
 ## ⚡ Instalação Rápida (1 Clique)
 
 1. Certifique-se de ter a extensão **Tampermonkey** instalada no navegador.
-2. **[CLIQUE AQUI PARA INSTALAR O SCRIPT](https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/Documeta%20atendimento/planilha%20GGNET%20SZ.CHAT.user.js)**
+2. **[CLIQUE AQUI PARA INSTALAR O SCRIPT](https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/planilha%20GGNET%20SZ.CHAT.user.js)**
 3. Uma janela do Tampermonkey abrirá. Clique em **"Instalar"**.
 4. Recarregue a página do SZ.chat (F5).
 
