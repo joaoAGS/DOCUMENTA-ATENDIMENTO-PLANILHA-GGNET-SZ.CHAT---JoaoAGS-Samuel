@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Documeta atendimento/planilha GGNET SZ.CHAT - JoaoAGS/Samuel
 // @namespace    http://tampermonkey.net/
-// @version      13.0
+// @version      13.1
 // @description  Envia Regional, Nome, Protocolo, Tel e Anotações para a Planilha
-// @author       Jõao/Samuel
+// @author       João/Samuel
 // @icon         https://avatars.githubusercontent.com/u/179055349?v=4
 // @match        *://*.clusterscpr.sz.chat/*
 // @grant        GM_xmlhttpRequest

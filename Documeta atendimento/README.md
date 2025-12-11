@@ -5,7 +5,7 @@
   <br><br>
   
   <a href="https://raw.githubusercontent.com/joaoAGS/DOCUMENTA-ATENDIMENTO-PLANILHA-GGNET-SZ.CHAT---JoaoAGS-Samuel/main/Documeta%20atendimento/planilha%20GGNET%20SZ.CHAT.user.js">
-    <img src="https://img.shields.io/badge/⬇️_Instalar_Script-v13.0-success?style=for-the-badge&logo=tampermonkey" alt="Instalar Script">
+    <img src="https://img.shields.io/badge/⬇️_Instalar_Script-v13.1-success?style=for-the-badge&logo=tampermonkey" alt="Instalar Script">
   </a>
   
   <br>
